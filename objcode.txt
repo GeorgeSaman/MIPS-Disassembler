@@ -10,6 +10,6 @@
   24:   216c001b        addi    t4,t3,27
   28:   05690000        bltz    t3,0(t1)
   32:   23bdfff8        addi    sp,sp,-8
-  36:   afb00004	    sw      s0,4(sp)
-  40:   0c100000	    jal 
+  36:   afb00004	      sw      s0,4(sp)
+  40:   0c100000	      jal 
   44:   03e00008        jr      ra
